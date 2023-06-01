@@ -1,0 +1,59 @@
+{
+  "May": {
+    "30": "Node 18 Videos",
+    "31": "Node 17 Videos"
+  },
+  "June": {
+    "1-10": {
+      "1": {
+        "1": "Express Crash Course",
+        "resources": "https://youtu.be/46Mjvdv_UUM"
+      },
+      "2-3": {
+        "2": "MongoDB 15 Videos",
+        "3": "MongoDB 10 Videos",
+        "resources": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA"
+      },
+      "4": {
+        "4": "Rest API with Node",
+        "resources": "https://www.youtube.com/playlist?list=PLwGdqUZWnOp1ve9jXCz9apbouv-eAMi6E"
+      },
+      "5-10": {
+        "5-10": "AWS",
+        "resources": "https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/"
+      }
+    },
+    "11-20": {
+      "11-12": {
+        "11": "Learn Python - Full Course for Beginners",
+        "12": "Learn Python - Full Course for Beginners",
+        "resources": "https://www.youtube.com/watch?v=rfscVS0vtbw"
+      },
+      "13-15": {
+        "13": "Intermediate Python Programming Course",
+        "14": "Intermediate Python Programming Course",
+        "15": "Intermediate Python Programming Course",
+        "resources": "https://www.youtube.com/watch?v=HGOBQPFzWKo"
+      },
+      "16-18": {
+        "16": {
+          "16": "NumPy Crash Course",
+          "resources": "https://www.youtube.com/watch?v=9JUAPgtkKpI"
+        },
+        "17": {
+          "17": "Pandas Crash Course",
+          "resources": "https://www.youtube.com/watch?v=vmEHCJofslg"
+        },
+        "18": {
+          "18": "Matplotlib Crash Course",
+          "resources": "https://www.youtube.com/watch?v=3Xc3CA655Y4"
+        }
+      },
+      "19-20": {
+        "19": "Machine Learning from Scratch - Python Tutorials",
+        "20": "Machine Learning from Scratch - Python Tutorials",
+        "resources": "https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E"
+      }
+    }
+  }
+}
